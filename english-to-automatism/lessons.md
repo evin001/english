@@ -22,7 +22,7 @@
 
 ---
 
-`o` - es (_do_ - does, _go_ - goes)
+`o` - **es** (_do_ - does, _go_ - goes)
 
 _He do**es** is every day_
 
@@ -30,9 +30,10 @@ _She go**es** to school_
 
 ---
 
-`have` - has 
+`have` - **has** 
 
-`a/an` + сущ. (исчисляемое, ед. ч) / `a/an` - noun (countable, one)
+`a/an` + **сущ.** (исчисляемое, ед. ч)   
+`a/an` - **noun** (countable, one)
 
 _He has a house_
 
