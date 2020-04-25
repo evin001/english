@@ -28,6 +28,14 @@ _He do**es** is every day_
 
 _She go**es** to school_
 
+_He go**es** to work_
+
+> **to work / to school**
+
+_He often goes **to the cinema**_
+
+_She often goes **to the park**_
+
 ---
 
 `have` - **has** 
@@ -49,7 +57,11 @@ _She wat**ch**es TV_
 
 _He mi**ss**es you_
 
-> relax / have a rest
+_He always finishes his work on time_
+
+> **on time** - вовремя   
+> **at home** - дома   
+> **relax / have a rest**
 
 _She usually rela**x**es at home_ 
 
@@ -69,4 +81,5 @@ _She tr**ies** to do it_
 
 _He tr**ies** to find a job_
 
+> **find a job**   
 > He sometimes **plays** computer games
