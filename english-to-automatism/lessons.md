@@ -57,7 +57,7 @@ _She wat**ch**es TV_
 
 _He mi**ss**es you_
 
-_He always finishes his work on time_
+_He always fini**sh**es his work on time_
 
 > **on time** - вовремя   
 > **at home** - дома   
@@ -83,3 +83,47 @@ _He tr**ies** to find a job_
 
 > **find a job**   
 > He sometimes **plays** computer games
+
+### Lesson 4
+
+I, We, You, Then + verb   
+He, She, it + verb + s
+
+_This lesson seem**s** [it] interesting_
+
+_These lessons seem [they] very useful_
+
+> full of use
+
+_My brother wants it_
+
+_My friend has a car_
+
+---
+
+`I - my`
+
+_My boss knows everything_
+
+`all + ...` (somethings)
+
+_My boss usually reads **all the** documents_
+
+`We - our`
+
+_Our mother thinks the same_
+
+> **the same** - так же, то же самое
+
+`They - their`
+
+`He - his`
+
+`She - her`
+
+_Her brother often says it_
+
+`It - its`
+
+> come to work   
+> go/come home
