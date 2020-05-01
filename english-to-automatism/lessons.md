@@ -127,3 +127,8 @@ _Her brother often says it_
 
 > come to work   
 > go/come home
+
+### Lesson 5
+
+_this/that ~~the~~ person_   
+_my/your/his/her/their/our ~~the~~ idea_
