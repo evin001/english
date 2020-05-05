@@ -132,3 +132,50 @@ _Her brother often says it_
 
 _this/that ~~the~~ person_   
 _my/your/his/her/their/our ~~the~~ idea_
+
+### Lesson 6
+
+`a/an + существительное (ед. ч.)`  
+`a/an + прилагательное + существильное (ед. ч.)`
+
+_I want a new computer_
+
+_I want a good car_
+
+_I want a new flat (apartment)_
+
+_I really want it_
+
+---
+
+`to + verb` - инфинитив (`infinitive`)
+
+_I really want to know it_
+
+_I want to improve my English_
+
+_I want to speak English better_
+
+_I want to **speak English correctly** (rightly)_
+
+_I want to **learn English fast**_
+
+_I want to have **a** good job_
+
+_I want to **speak English fluently** and correctly_
+
+> `one more time/again` - ещё один раз   
+> `abroad` - за границей    
+> ``
+
+_My friend wants to live abroad_
+
+_I want to go abroad_
+
+_I really want to thank you_
+
+_Thank you!_
+
+_Thank a lot! Thank you very match!_
+
+_Thanks a million!_
