@@ -164,9 +164,9 @@ _I want to have **a** good job_
 
 _I want to **speak English fluently** and correctly_
 
-> `one more time/again` - ещё один раз   
-> `abroad` - за границей    
-> ``
+> `one more time` - ещё один раз  
+> `again` - снова, опять   
+> `abroad` - за границей
 
 _My friend wants to live abroad_
 
@@ -179,3 +179,7 @@ _Thank you!_
 _Thank a lot! Thank you very match!_
 
 _Thanks a million!_
+
+---
+
+_I want to **go to** another place_
