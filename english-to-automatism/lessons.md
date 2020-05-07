@@ -183,3 +183,58 @@ _Thanks a million!_
 ---
 
 _I want to **go to** another place_
+
+### Lesson 7
+
+`I like + ...` - Мне нравится   
+
+_I like it_
+
+_I like your lessons_
+
+`I really like + ...`
+
+_I really like these lessons_
+
+`I also like + ...`
+
+_I also like this channel_
+
+`I also like it` == `I like it, too`
+
+_I like this channel, too_
+
+---
+
+`I like` - Мне нравится   
+`We like` - Нам нравится  
+`You like` - Тебе нравится   
+`They like` - Им нравится   
+`He likes` - Ему нравится   
+`She likes` - Ей нравится
+
+_I see you like it_
+
+_I know they like it_
+
+_She likes this place_
+
+_My friend likes this hot**E**l_
+
+---
+
+`I would (I'd) like` - Я хотел бы
+
+`of` - Принадлежность чему-либо
+
+_I'd like a cap of coffee_
+
+`I'd like to + verb`
+
+_I'd like to drink a cup of coffee_
+
+_I'd like to know English very well_
+
+_I'd like to visit this place_
+
+_I'd like to become a (businessman/teacher/doctor/manager)_
