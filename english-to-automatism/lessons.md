@@ -238,3 +238,40 @@ _I'd like to know English very well_
 _I'd like to visit this place_
 
 _I'd like to become a (businessman/teacher/doctor/manager)_
+
+### Lesson 8
+
+Present Simple (negative form)
+
+`I, We, You, They + don't + verb`
+
+_I don't know_
+
+_You don't try to learn English_
+
+_They don't help me_
+
+_I don't agree with you_
+
+_I don't like it_
+
+_I don't to study there_
+
+_I don't want to do it right now. I want to do it **later**_
+
+> **say** - сказать что-то   
+> **tell** - сказать кому-то
+
+---
+
+`He, She, It + doesn't + verb` (**s** не добавляется, только в утверждении)
+
+_He know**s** it_
+
+_He doesn't know it_
+
+_She doesn't want to discuss it_
+
+_It doesn't help me_
+
+_It doesn't work_
