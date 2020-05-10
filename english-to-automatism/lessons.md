@@ -275,3 +275,37 @@ _She doesn't want to discuss it_
 _It doesn't help me_
 
 _It doesn't work_
+
+### Lesson 9
+
+_This thing doesn't interest me_
+
+_These things don't attract me_
+
+> **attract** - привлекать
+
+_That thing doesn't seem interesting_
+
+_Those thinks don't seem strange_
+
+_Her daughter doesn't want to study there_
+
+> **My friend and I** - мы с моим другом
+
+_My friend and I don't call them_
+
+> **her** - ей   
+> **him** - ему   
+> **them** - им   
+> **us** - нам
+
+_He thinks money doesn't bring people happiness_
+
+> **bring** - приносить   
+
+> **happiness** - счастье   
+> **happy** - счастливый
+
+`make + прилагательное` - делать кого-то
+
+_I want to make you happy_
