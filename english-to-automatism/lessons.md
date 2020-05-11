@@ -309,3 +309,26 @@ _He thinks money doesn't bring people happiness_
 `make + прилагательное` - делать кого-то
 
 _I want to make you happy_
+
+### Lesson 10
+
+_I need it_
+
+> **harder** - усерднее  
+> **correct** - исправить   
+> **solve** - решить
+
+_I need to solve this problem_
+
+> **at all** - во все
+
+_I need to speak English without any mistakes at all_
+
+> **advice** - совет
+
+_I need your advice_
+
+> **less** - меньше   
+> **more** - больше
+
+_Your mother needs to work less_
