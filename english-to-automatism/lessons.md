@@ -320,7 +320,7 @@ _I need it_
 
 _I need to solve this problem_
 
-> **at all** - во все
+> **at all** - вовсе
 
 _I need to speak English without any mistakes at all_
 
@@ -332,3 +332,12 @@ _I need your advice_
 > **more** - больше
 
 _Your mother needs to work less_
+
+### Lesson 11
+
+Present Simple Tense
+
+> **for** - за
+> **from time to time** - время от времени
+> **so many** - так много
+> **explain** - объяснять 
