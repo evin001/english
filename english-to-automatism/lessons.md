@@ -337,7 +337,12 @@ _Your mother needs to work less_
 
 Present Simple Tense
 
-> **for** - за
-> **from time to time** - время от времени
-> **so many** - так много
-> **explain** - объяснять 
+> **for** - за   
+> **from time to time** - время от времени   
+> **so many** - так много   
+> **explain** - объяснять
+
+### Lesson 12
+
+> **as soon as possible** - как можно скорее   
+> **train** - тренировать   
