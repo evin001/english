@@ -345,4 +345,24 @@ Present Simple Tense
 ### Lesson 12
 
 > **as soon as possible** - как можно скорее   
-> **train** - тренировать   
+> **train** - тренировать
+
+### Lesson 13
+
+`another, this, that, my, your, his, her ...` - артикль не нужен
+
+`this - that`
+
+`these - those`
+
+---
+
+`a/an + adjective + noun (one)`
+
+_He has a new car_
+
+---
+
+**W**ord **O**rder
+
+_You speak English very well_
