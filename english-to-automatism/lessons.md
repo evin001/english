@@ -366,3 +366,43 @@ _He has a new car_
 **W**ord **O**rder
 
 _You speak English very well_
+
+### Lesson 14
+
+**Present Simple (Questions)**
+
+_You know it_
+
+`Do + I/We/You/They + verb`
+
+_Do you know it?_
+
+_Do I make mistakes?_
+
+_Do we show good results?_
+
+> **work on** - работать над чем-то
+
+_Do you work on your mistakes?_
+
+> **decision** - ренешие
+
+_Do you like classical music?_   
+_Yes, I like it_   
+_No, I don't like it_
+
+_Do you often do it?_
+
+_Do you often **listen to music**?_
+
+> **listen to music** - слушать музыку
+
+_Do you often **use the Internet**?_
+
+_Do you often go to the gym?_
+
+> **gym** - зал
+
+_Do they do the same?_
+
+_Do we have enough knowledge?_
