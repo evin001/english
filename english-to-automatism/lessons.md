@@ -406,3 +406,36 @@ _Do you often go to the gym?_
 _Do they do the same?_
 
 _Do we have enough knowledge?_
+
+### Lesson 15
+
+**Present Simple (Questions)
+
+`Does + he/she/it + verb`
+
+_Does she think about it?_
+
+_Does she ignore it?_
+
+> **look for** - искать   
+> **look** - смотреть
+
+_Does he look for a job?_
+
+_Does he try to find a new job?_
+
+_Does she need to come there?_   
+_Does she need to come to this place?_
+
+> **hear** - слышать
+
+_Does he often hear it?_
+
+> **listen to the radio** - слушать радио
+
+_Does she often listen to the radio?_
+
+`I always/often/usually do it`   
+`Sometimes I do it`   
+`I sometimes do it`   
+`I do it sometimes`
