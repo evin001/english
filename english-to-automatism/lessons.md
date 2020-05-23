@@ -409,7 +409,7 @@ _Do we have enough knowledge?_
 
 ### Lesson 15
 
-**Present Simple (Questions)
+**Present Simple (Questions)**
 
 `Does + he/she/it + verb`
 
@@ -439,3 +439,43 @@ _Does she often listen to the radio?_
 `Sometimes I do it`   
 `I sometimes do it`   
 `I do it sometimes`
+
+### Lesson 16
+
+**Present Simple (Questions)**
+
+_Does this lesson seem useful?_
+
+_Do these lessons help you?_
+
+> **useless (without use)** - бесполезный
+
+_Does this information seem useless?_
+
+> **important** - важный  
+> **unimportant** - неважный
+
+_Does this thing seem important?_   
+_Does these things seem unimportant?_
+
+> **exam** - экзамин   
+> **difficult** - сложный
+
+_Does this exam seem very difficult?_
+
+> **easy** - лёкгий
+
+_Does that test seem very easy?_
+
+> **truth** - правда
+
+_Does their boss know **all the truth**?_
+
+> **excellent** - отличный
+
+_Do these students show excellent results?_
+
+> **brilliant** - блестящий
+
+_Does this student show brilliant result?_   
+
