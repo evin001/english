@@ -477,5 +477,27 @@ _Do these students show excellent results?_
 
 > **brilliant** - блестящий
 
-_Does this student show brilliant result?_   
+_Does this student show brilliant result?_
 
+### Lesson 18
+
+_+ My friend likes it_   
+_- My friend doesn't like it_   
+_? Does my friend like it?_
+
+_+ Our boss controls the situation_   
+_- Our boss doesn't control the situation_   
+_? Does our boss control the situation?_
+
+> **exercise** - упражнение
+
+_+ This exercise seems too easy_   
+_- This exercise doesn't seem too easy_   
+_? Does this exercise seem too easy_?
+
+> **depend** - зависит   
+> **depend on you** - зависит от тебя
+
+_+ This result **depends on** you_   
+_- This result doesn't depend on you_   
+_? Does this result depend on you?_
