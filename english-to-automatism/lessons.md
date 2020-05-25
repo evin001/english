@@ -479,17 +479,18 @@ _Do these students show excellent results?_
 
 _Does this student show brilliant result?_
 
-### Lesson 18
+### Lesson 17
 
 _+ My friend likes it_   
 _- My friend doesn't like it_   
 _? Does my friend like it?_
 
-_+ Our boss controls the situation_   
+_+ Our boss **controls the situation**_   
 _- Our boss doesn't control the situation_   
 _? Does our boss control the situation?_
 
 > **exercise** - упражнение
+> **too easy** - слишком лёгкий
 
 _+ This exercise seems too easy_   
 _- This exercise doesn't seem too easy_   
@@ -501,3 +502,75 @@ _? Does this exercise seem too easy_?
 _+ This result **depends on** you_   
 _- This result doesn't depend on you_   
 _? Does this result depend on you?_
+
+### Lesson 18
+
+**Present Simple (Special Questions)**
+
+Questions:
+
+- **General** - Yes/No
+
+_Do you like it? Yes/No_
+
+- **Special**   
+
+`Why/How/Where/What/When + do + I/We/You/They + verb`      
+
+`Why/How/Where/What/When + does + He/She/It + verb`
+
+_Where do you live?_
+
+_Where do you go?_
+
+> **spend time** - проводить время   
+> **where** - где, куда 
+
+_Where do they **spend time** together?_
+
+_What do you want to do?_
+
+> **get to work** - добираться до работы   
+> **get here/there/home**
+
+_How do you get to work?_
+
+_How do you get there?_
+
+_What do you want to say?_   
+_What **seems** strange?_   
+_What really **helps** you?_
+
+_Who do you know?_ - Кого ты знаешь?   
+_Who **knows** it?_ - Кто знает это?
+
+`What (в значении какой) ... do/dows ...?`
+
+_What books do you read?_
+
+> **prefer** - предпочитать
+
+_What music do you prefer?_
+
+`What kind/sort of (какого рода) ... do/dows ...?`
+
+_What kind of books do you read?_
+
+`What time (в какое время)`
+
+> **get up** - вставать   
+> **go to bed** - ложиться спать
+
+_What time do you get up?_
+
+_What time do you go to bed?_
+
+`How much (с неисчисляемыми)`   
+_How much money do you have with you?_
+
+`How many (с исчисляемыми)`   
+_How many friends do you have?_
+
+_How often do you go to the gym?_
+ 
+_How regularly do you learn English?_
