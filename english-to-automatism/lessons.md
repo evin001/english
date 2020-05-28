@@ -544,7 +544,7 @@ _What really **helps** you?_
 _Who do you know?_ - Кого ты знаешь?   
 _Who **knows** it?_ - Кто знает это?
 
-`What (в значении какой) ... do/dows ...?`
+`What (в значении какой) ... do/does ...?`
 
 _What books do you read?_
 
@@ -552,7 +552,7 @@ _What books do you read?_
 
 _What music do you prefer?_
 
-`What kind/sort of (какого рода) ... do/dows ...?`
+`What kind/sort of (какого рода) ... do/does ...?`
 
 _What kind of books do you read?_
 
@@ -574,3 +574,45 @@ _How many friends do you have?_
 _How often do you go to the gym?_
  
 _How regularly do you learn English?_
+
+### Lesson 19
+
+> **complain** - жаловаться
+
+_Why does he complain so often?_
+
+> **refuse** - отказыаться
+
+_Why does she refuse to pay?_   
+_Why does it happen again and again?_
+
+> **worry** - беспокоиться
+
+_What worr**ies** you?_
+
+_What kind of movies (films) does she watch?_   
+_She watches different movies_
+
+> **Which** - который (используется для ограниченного количества)
+
+_What books does she prefer to read?_  
+_What channels does he usually watch?_   
+_Which channel does he usually watch?_
+
+_Which drink does she prefer: tea or coffee?_  
+_What drinks does she prefer?_
+
+> **leave** - уходить   
+> **leave home/this place**
+
+_What time does she leave home?_
+
+_How regularly does he do these exercises?_
+
+> **how long** - как долго      
+> **take you** - занимает у тебя   
+> **get** - добраться
+
+_How long does it take you to get to work?_ 
+
+_How long does it take him/her to get to this place?_
