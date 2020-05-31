@@ -616,3 +616,19 @@ _How regularly does he do these exercises?_
 _How long does it take you to get to work?_ 
 
 _How long does it take him/her to get to this place?_
+
+### Lesson 20
+
+_Where does your father work?_
+
+> **criticize** - критиковать 
+
+_Why does your boos criticize it?_
+
+> **disagree** - несоглашаться
+
+_Why do your friends disagree with you?_
+
+_What advice do your teachers give you?_
+
+_What kind of examples does his teacher give?_
