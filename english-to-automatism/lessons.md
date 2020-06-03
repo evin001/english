@@ -306,7 +306,7 @@ _He thinks money doesn't bring people happiness_
 > **happiness** - счастье   
 > **happy** - счастливый
 
-`make + прилагательное` - делать кого-то
+`make + прилагательное` - делать кого-то счастливым/богатым
 
 _I want to make you happy_
 
@@ -625,10 +625,18 @@ _Where does your father work?_
 
 _Why does your boos criticize it?_
 
-> **disagree** - несоглашаться
+> **disagree** - не соглашаться
 
 _Why do your friends disagree with you?_
 
 _What advice do your teachers give you?_
 
 _What kind of examples does his teacher give?_
+
+### Lesson 21
+
+`Question word + do/does + subject (подлежащее) + verb`
+
+> **travel** - путешествовать
+
+_How often do you travel?_
