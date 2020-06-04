@@ -640,3 +640,52 @@ _What kind of examples does his teacher give?_
 > **travel** - путешествовать
 
 _How often do you travel?_
+
+### Lesson 22
+
+**&plus; Statement**
+
+`I/We/You/They + verb`
+
+> **much more** - намного больше
+
+_We want much more practice_
+
+> **with great pleasure** - с большим удовольствием
+
+_She goes to school with great pleasure_
+
+`He/She/It + verb + s`
+
+**&minus; Negative Form** 
+
+`I/We/You/They + don't + verb`
+
+> **share** - разделять чьё-то мнение, точку зрения   
+> **point of view** - точка зрения
+
+_We don't share point of view_
+
+> **listen to us** - слушать нас
+
+_They don't want to listen to us_
+
+`He/She/It + doesn't + verb`
+
+> **inspire** - вдохновлять
+
+_It doesn't inspire me_
+
+**? Question**
+
+`Do + I/We/You/They + verb?`  
+`Does + He/She/It + verb?`
+
+> **do business** - заниматься бизнесом
+
+_+ They do business_   
+_- They don't do business_   
+_? Do they do business?_
+
+> **do** - выполнять   
+> **make** - создавать что-то заново
