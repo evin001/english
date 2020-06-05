@@ -689,3 +689,11 @@ _? Do they do business?_
 
 > **do** - выполнять   
 > **make** - создавать что-то заново
+
+### Lesson 23
+
+_What English books do you have at home?_
+
+> **mention** - упоминать
+
+_How often does your girlfriend mention it?_
