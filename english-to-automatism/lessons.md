@@ -697,3 +697,32 @@ _What English books do you have at home?_
 > **mention** - упоминать
 
 _How often does your girlfriend mention it?_
+
+### Lesson 24
+
+**Article**
+
+_I have a car_   
+_I have got a car_   
+_I've got a car_
+
+_He has a family_   
+_He has got a family_   
+_He's got a family_
+
+---
+
+> **Let's** - давай что-то сделаем   
+> **speak**, что-то длительное или на каком-то языке
+
+`Let's + verb!`
+
+_Let's talk/speak about it!_
+
+---
+
+`make mistakes/money`   
+`do homework/housework/business`
+
+> **homework** - домашняя работа  
+> **housework** - работа по дому
