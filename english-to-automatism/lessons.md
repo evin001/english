@@ -734,3 +734,35 @@ _Let's talk/speak about it!_
 Мы используем слово **their**, когда говорим о чём-то, что принадлежит или касается их. Они - это люди или вещи, о которых идёт речь. Their отвечает на вопрос **чей**?
 
 Мы используем **them**, когда хотим указать, на каких людей/предметы направлено действие. Отвечает на вопрос **кого?/что?, чего?, о ком?/чём?, кому?/чему?**
+
+### Lessons 26
+
+**Present Simple**
+
+- Когда есть глагол (Lessons 1 - 25)
+- Когда нет глагола - форма to be
+
+`I am`   
+`We/You/They are`   
+`He/She/It is`
+
+> **at home** - дома   
+> **at work** - на работе   
+> **at school** - в школе 
+
+_It is interesting = It's interesting_
+
+_I am at home = I'm at home_
+
+_We are at home = We're at home_
+
+_They're at work_
+
+> **sure/certain** - уверен
+
+_I'm sure / I'm certain_
+
+_You're **a** good person_
+
+_It's good / It's bad_   
+_It's so good / It's so bad_
