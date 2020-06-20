@@ -766,3 +766,81 @@ _You're **a** good person_
 
 _It's good / It's bad_   
 _It's so good / It's so bad_
+
+### Lesson 27
+
+`a/an + adjective + noun (one)`
+
+_It's a good result_
+
+`a + very + adjective + noun (one)`
+
+_It's a very good result_
+
+_It's an interesting idea_   
+_It's a very interesting idea_
+
+_It's **a** useful lesson_   
+_It's a very useful lesson_
+
+> **informative** - информативный
+
+_It's an informative lesson_
+
+_It's a **small** mistake_  
+_It's a very small mistake_
+
+> **the best** - лучший
+
+_It's the best channel_
+
+**so/very/too**
+
+_It's so boring_   
+_It's very boring_   
+_It's too boring_ - Это **слишком** скучно
+
+> **expensive** - дорого   
+> **cheap** - дёшево
+
+_It's too expensive_   
+_It's too cheap_
+
+> **warm** - тепло   
+> **hot** - жарко
+> **rainy** - дождливо   
+> **sunny** - солнечно   
+> **dark** - темно   
+
+_It's warm_   
+_It's cold_   
+_It's hot_   
+_It's rainy_   
+_It's sunny_   
+_It's dark_   
+
+_Good!/Bad!/Excellent!/Wonderful!/Great!_
+
+`It's + прилагательное`
+
+> **obviously** - очевидно   
+> **interestingly** - интересно   
+> **easily** - легко   
+> **simply** - просто   
+
+_It's obvious_   
+_It's interesting_   
+_It's easy_   
+_It's simple_   
+_It's possible_   
+_It's impossible_   
+_It's good_   
+_It's bad_
+
+>**on the right** - с права
+
+_It's on the right_   
+
+> **worse** - хуже
+
+_It's worse_
