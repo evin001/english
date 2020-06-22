@@ -844,3 +844,44 @@ _It's on the right_
 > **worse** - хуже
 
 _It's worse_
+
+### Lesson 28
+
+**so / such**
+
+`so + adjective`
+
+_It's so interesting_
+
+`such + a/an + adjective + noun (one)`
+
+_It's such an interesting story_
+
+> **meeting** - встреча
+
+_It's such an important meeting_
+
+> **song** - песня
+
+_It's such a popular song_
+
+_She's beautiful_   
+_She's so beautiful_   
+_She's very beautiful_   
+_She's a beautiful girl_   
+_She's a very beautiful girl_   
+_She's such a beautiful girl_
+
+_He's so cleaver (smart)_
+
+> **talented** - талантливый
+
+_He's talented_
+
+> **effective** - эффективный
+
+_It's such an effective method_
+
+> **wise** - мудрый
+
+_She's such a wise women_
