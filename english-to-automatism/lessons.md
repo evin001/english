@@ -885,3 +885,66 @@ _It's such an effective method_
 > **wise** - мудрый
 
 _She's such a wise women_
+
+### Lesson 29
+
+**to be - more difficult**
+
+`I am`   
+`We/You/They are`   
+`He/She/It is`   
+
+_My friend is at home_
+
+_Their idea is very interesting_
+
+_All your videos are so interesting_
+
+> **hard-working** - трудолюбивый
+
+_This student is so hard-working_
+
+> **at the moment** - в данный момент
+
+_Her boss is very busy at the moment_
+
+`the = this`
+
+_I have a computer. The computer is new_
+
+_The exam is difficult_
+
+> **leg** - нога
+
+`man - men`   
+
+_This man is a doctor_ (cat)   
+_These men are managers_ (leg)
+
+`woman - women`
+
+_That women is a designer_   
+_Those women are teachers_
+
+> **ineffective** - неэффективный
+
+_Those lessons are ineffective_
+
+_These problems are **small**_
+
+_Time is money_   
+_Money is important_
+
+> **feeling** - чувство
+
+_Love is a wonderful feeling_
+
+_I'm Russian_
+
+_I'm 20 (twenty)_
+
+**100 a/one hundred**
+
+_I'm 32 (years old) (thirty-two)_
+
+_My brother is 21_
