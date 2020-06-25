@@ -948,3 +948,59 @@ _I'm 20 (twenty)_
 _I'm 32 (years old) (thirty-two)_
 
 _My brother is 21_
+
+> **windy** - ветреный
+
+### Lesson 30
+
+**to be (negative form)**
+
+`I am not = I'm not`   
+`We/You/They are not = We/You/They aren't`   
+`He/She/It is not = He/She/it isn't`
+
+> **married** - женат   
+> **I'm single** - я холост
+
+_I'm not married. I'm single_
+
+> **tired** - уставший (прилагательное)   
+> **full of** - полны чего-то
+
+_We aren't tired. We're full of energy_
+
+> **stupid** - тупые
+
+_We aren't stupid. We're clever_
+
+> **angry** - злой
+
+_We aren't angry. We're very kink_
+
+> **sad** - грустный
+
+_We aren't sad. We're happy_
+
+> **wrong** - неправ
+
+_You aren't right (You are wrong)_
+
+> **in the first place** - на первом месте
+
+_You aren't in the first place. You're in the second place_
+
+> **colleagues** - коллеги
+
+_They aren't my colleagues_
+
+> **successful** - успешно
+> **unsuccessful** - неуспешно
+
+_They aren't successful (They unsuccessful)_
+
+_They aren't businessmen. They're managers_
+
+> **far** - далеко   
+> **near** - близко
+
+_It isn't far. It's near_
