@@ -1004,3 +1004,53 @@ _They aren't businessmen. They're managers_
 > **near** - близко
 
 _It isn't far. It's near_
+
+### Lesson 31
+
+`Am I...?`   
+`Are We/You/They...?`   
+`Is He/She/It...?`
+
+_Are you happy?_
+
+_Am I **in the right place**?_
+
+> **lucky** - везучий
+
+_Am I lucky?_
+
+_Are you from **the United States**?_
+
+_Are they from Spain?_
+
+_Is he from Russia?_
+
+> **building** - здание
+
+_Is he in the building?_
+
+_Is she from Italy?_
+
+> **room** - комната
+
+_Is she in her room?_
+
+> **opinion** - мнение
+
+_Is it her opinion?_
+
+> **own** - собственный
+
+_Is it his own flat (apartment)?_
+
+> **funny** - забавный, смешной
+
+_Is it a funny video?_
+
+> **newspaper** - газета
+
+_Is it an interesting newspaper?_
+
+_Is it for children?_
+
+_Is it a problem?_
