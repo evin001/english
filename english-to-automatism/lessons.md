@@ -1054,3 +1054,50 @@ _Is it an interesting newspaper?_
 _Is it for children?_
 
 _Is it a problem?_
+
+### Lesson 32
+
+**Present simple - to be (questions - more difficult things)**
+
+_Is his video funny?_
+
+> **powerful** - мощный
+
+_Is it a powerful computer?_
+
+_Is this knowledge enough?_
+
+_Are his parents abroad?_
+
+> **profitable** - прибыльный
+
+_Is this business profitable?_
+
+_Is the boy at home? (this boy)_   
+_Are the boys at school? (these boys)_
+
+_Is the book boring?_
+
+> **university** - университет     
+> **famous** - знаменитый
+
+_Is the university famous?_
+
+> **article** - статья
+
+_Is the article in English?_   
+_Are the articles in Russian?_
+
+> **politics** - политика
+
+_Is the article about politics?_
+
+> **airport** - аэропорт
+
+_Is the airport near?_
+
+_Is time money?_
+
+_Is knowledge power?_
+
+_Is the news interesting?_
