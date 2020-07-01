@@ -1101,3 +1101,36 @@ _Is time money?_
 _Is knowledge power?_
 
 _Is the news interesting?_
+
+### Lesson 33
+
+`Where/Why/What ... + am/are/is ...?`
+
+_Where is it?_
+
+_What is here? What's here?_
+
+> **pocket** - карман
+
+_What's in this box?_   
+_What's in your bab?_   
+_What's in your pocket?_
+
+> **against** - против
+
+_Why are you against it?_
+
+_Who's right?_
+
+`(How ...) am/is/are ...?`
+
+_How far is it?_
+
+_How old are you?_   
+_How old is he?_
+
+_What time is it?_   
+_What's the time?_
+
+_How much is it?_   
+_How much does it cost?_
