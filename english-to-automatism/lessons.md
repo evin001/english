@@ -1134,3 +1134,40 @@ _What's the time?_
 
 _How much is it?_   
 _How much does it cost?_
+
+### Lesson 34
+
+_My name is Alex = My name's Alex_
+
+_What's your name?_
+
+_What's your girlfriend's name?_   
+_What's your boyfriend's name?_   
+_What's your friend's name?_   
+_What's your best friend's name?_   
+
+_How is this playlist?_   
+_How is the channel?_
+
+> **party** - вечеринка
+
+_How is the party?_
+
+> **nearest** - ближайший
+
+_Where is the nearest supermarket?_
+
+_I'm an English teacher_
+
+_What's your mother's job?_
+
+_How much does the computer coast?_
+
+> **trousers** - брюки   
+> **jeans** - джинсы   
+> **pair** - пара
+
+_How much are these trousers?_   
+_How much is this pair of trousers?_
+
+_How much is one English lesson?_
