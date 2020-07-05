@@ -1171,3 +1171,15 @@ _How much are these trousers?_
 _How much is this pair of trousers?_
 
 _How much is one English lesson?_
+
+### Lesson 35
+
+> **on a business trip** - в командировке   
+> **on holiday** - в отпуске
+> **manner** - манера
+
+_He's on a business trip_   
+_She's on holiday_   
+_It's a good manner_
+
+_He has such interesting ideas_
