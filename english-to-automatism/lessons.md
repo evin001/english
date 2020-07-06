@@ -1183,3 +1183,44 @@ _She's on holiday_
 _It's a good manner_
 
 _He has such interesting ideas_
+
+### Lesson 36
+
+> **satisfied** -  удовлетворён   
+> **satisfied with** -  удовлетворён чем-то   
+
+_I'm not satisfied with this decision_
+
+> **optimistic** - оптимистичный   
+> **pessimistic** - пессимистичный 
+
+_You aren't optimistic_   
+_They aren't pessimistic_
+
+> **bathroom** - ванна   
+> **kitchen** - кухня
+
+_He isn't in the bathroom_   
+_She isn't in the kitchen_
+
+_It isn't so_
+
+> **pen** - ручка   
+> **pencil** - карандаш 
+
+_The pen isn't black. It's blue_   
+_The pencil isn't red. It's green_
+
+> **afraid** - боишься (прилагательное)   
+> **afraid of** - бояться кого-то, чего-то
+
+_Are you afraid?_
+
+> **passion** - страсть
+
+_Is it her passion?_
+
+**news, money**
+
+_Is this money enough?_   
+_Is the news interesting?_
