@@ -1224,3 +1224,13 @@ _Is it her passion?_
 
 _Is this money enough?_   
 _Is the news interesting?_
+
+### Lesson 37
+
+> **glad to see** - рад кого-то видеть
+
+_+ She's glad to see him_   
+_- She isn't glad to see him_   
+_? Is she glad to see him_
+
+_The door is open / closed_   
