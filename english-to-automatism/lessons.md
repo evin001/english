@@ -1233,4 +1233,104 @@ _+ She's glad to see him_
 _- She isn't glad to see him_   
 _? Is she glad to see him_
 
-_The door is open / closed_   
+_The door is open / closed_
+
+### Lesson 39
+
+> **on time** - во время   
+> **finish** - заканчивать
+
+__We always finish it on time_
+
+> **laugh** - смеяться   
+> **laugh at** - смеяться над чем-то
+
+_They often laugh at it_
+
+> **enjoy** - получать удовольствие
+
+_I enjoy English / sport_
+
+> **serious** - серьёзен
+
+_I'm serious (It isn't a joke)_
+
+> **musician** - музыкант
+
+_He's a musician_
+
+> **expert** - эксперт  
+> **area** - область
+
+_She's an expert in this area_
+
+> **waste of time** - потеря времени
+
+_It's a waste of time / money_
+
+> **comfortable** - комфортно
+
+_It's comfortable for me_
+
+> **choice** - выбор
+
+_It's the best choice_   
+_It's your best choice_
+
+> **final** - окончательное
+
+_It's my final decision_
+
+> **necessary** - необходимо
+
+_It's necessary to do it_
+
+> **natural** - естественно
+
+_It's natural_
+
+> **on the floor** - на полу
+
+_It's on the floor_
+
+_Our teacher often compares our results_
+
+_The answer is correct / right_
+
+> **loud** - громкий
+
+_The sound is too loud_
+
+> **training** - тренировка
+
+_This training is very intensive_
+
+> **behavior** - поведение
+
+_His behavior is very strange_
+
+> **in hospital** - в больнице
+
+_Her husband is in hospital_
+
+> **summer** - лето   
+> **spring** - весна   
+> **autumn** - осень   
+> **winter** - зима   
+
+_My friend and I live there in summer_
+
+> **adapt** - адаптироваться   
+> **adapt to** - адаптироваться к чему-либо   
+
+_I need to adapt to these conditions_
+
+_I need to finish it as soon as possible_
+
+> **prepare for** - подготовиться к чему-либо
+
+_I need to prepare for this exam / test_
+
+> **attack** - атаковать, атака
+
+_He wants to attack them_
