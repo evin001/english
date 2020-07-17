@@ -1334,3 +1334,81 @@ _I need to prepare for this exam / test_
 > **attack** - атаковать, атака
 
 _He wants to attack them_
+
+### Lesson 40
+
+> **trust** - доверять
+
+_We don't trust him_
+
+> **picture** - картина
+
+_They don't like this picture_
+
+> **stimulate** - стимулировать
+
+_It doesn't stimulate them_
+
+> **specialist** - специалист   
+> **crazy/mad** - сумасшедший   
+> **tourist** - турист   
+> **illness** - болезнь      
+> **ill** - больной   
+> **friendly** - дружелюбный         
+> **fat** - толстый         
+
+_I'm not a specialist in this area_   
+_We aren't crazy / mad_   
+_They aren't tourists_   
+_He isn't ill_   
+_She isn't friendly / fat_
+
+> **surprising** - удивительно   
+> **convenient** - удобно   
+> **chair** - стул   
+> **armchair** - кресло      
+> **on the table** - на столе         
+> **on my desk** - на моём письменном столе         
+> **clear** - ясный, понятный            
+> **go shopping** - ходить за покупками            
+> **do the shopping** - делать за покупки               
+> **communicate** - общаться   
+> **another (мн. ч.) / other (ед. ч.)** - другие   
+
+_It isn't surprising_   
+_It isn't convenient for me_   
+_This chair isn't comfortable for me_   
+_The keys aren't on the table_   
+_The pen isn't on my desk_   
+_The presentation isn't clear_   
+_His wife doesn't (go shopping / do the shopping) so often_   
+_My sister doesn't communicate with him_  
+_I'd like to communicate with people from other countries_
+
+> **salary** - зарплата   
+> **tomorrow** - завтра   
+> **cost** - стоит   
+
+**`much` используется в отрицательных предложениях, в утвердительных используется `a lot`**
+
+_Hist salary isn't so high. It's low_   
+_My birthday isn't today. It's tomorrow_   
+_That thing doesn't cost much. This thing coasts a lot_   
+_I don't know much. I know a lot_   
+_I like your channel very much / I like your channel a lot_
+
+> **salad** - салат   
+> **cake** - пирог   
+> **restaurant** - ресторан   
+> **furniture** - мебель  
+> **advertising** - реклама (неисчисляемое)  
+> **advertisement / ad** - рекламное объявление   
+> **analyze** - анализировать  
+> **all the** - все что-то   
+> **write it down** - записывать это
+
+_I don't like this salad / cake / restaurant / furniture_   
+_I don't like advertising_   
+_I don't like this advertisement / I don't like this ad_   
+_I don't need to analyze all the data_   
+_I don't need to write it down_ 
