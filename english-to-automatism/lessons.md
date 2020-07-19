@@ -1373,7 +1373,7 @@ _She isn't friendly / fat_
 > **go shopping** - ходить за покупками            
 > **do the shopping** - делать за покупки               
 > **communicate** - общаться   
-> **another (мн. ч.) / other (ед. ч.)** - другие   
+> **another (ед. ч.) / other (мн. ч.)** - другие   
 
 _It isn't surprising_   
 _It isn't convenient for me_   
@@ -1412,3 +1412,91 @@ _I don't like advertising_
 _I don't like this advertisement / I don't like this ad_   
 _I don't need to analyze all the data_   
 _I don't need to write it down_ 
+
+### Lesson 41
+
+> **library** - библиотека    
+> **formal** - формальный   
+> **informal** - неформальный   
+> **reply** - ответ (более формальный)   
+
+_Are we near this place?_   
+_Are you in the library?_   
+_Is it a formal answer / reply? This answer is informal_
+
+`im + p, m`
+   
+> **polite** - вежливый   
+> **impolite** - невежливый   
+> **moral** - моральный, нравственный     
+> **immoral** - аморальный, безнравственный
+
+_His behavior is immoral_   
+_This mission is impossible_
+
+_Do I understand it correctly / rightly?_   
+_Do we show ~~more~~ better results?_  
+
+`good - better - the best`   
+`bad - worse - the worst`
+
+> **discuss** - обсуждать      
+> **compete** - соревноваться   
+> **cook** - готовить  
+
+_Does he compete with them?_   
+_Does she cook well?_
+
+> **be fond of** - обожать
+
+_I like this channel_         
+_I like this channel a lot_         
+_I really like this channel_         
+_I enjoy this channel_         
+_I fond of this channel_         
+
+_I'm sure it's the best channel in the world because these video lessons really help. I know my English is better and better_
+
+> **journalist** - журналист   
+> **unusual** - необычный   
+> **behave** - вести себя   
+> **strange** - странный   
+> **strangely** - странно   
+> **alone** - в одиночестве, наедине   
+> **at the airport** - в аэропорту   
+
+_Is your father a journalist?_   
+_Is his behavior unusual?_   
+_Does his brother behave strangely?_   
+_Does his partner spend too much money?_   
+_Is your sister alone now?_   
+_Does your sister live alone?_   
+_Is your friend at the airport?_
+
+> **elder brother** - старший брат   
+> **younger brother** - младший брат   
+> **older** - старше   
+> **tasty / delicious** - вкусно   
+> **the meaning of** - значение чего-то   
+> **mean** - означать, иметь в виду
+> **express** - выражать   
+> **expression** - выражение   
+
+_Is this boy his elder / younger brother?_   
+_Is the food tasty / delicious?_   
+_Is the food very tasty?_   
+
+_The food is tasty_   
+_The food is really tasty / delicious_   
+_The food is very tasty_   
+_The food is absolutely delicious_  
+
+_Do all the students know the meaning of this word / phrase / expression?_   
+_What's the meaning of this word?_   
+_What does this word mean?_   
+_What do you mean?_ 
+
+> **by tomorrow** - к завтрашнему дню 
+
+_Do you need to do it ~~in~~ this / next year?_   
+_Do you need to finish it by tomorrow / next week / month / year?_
