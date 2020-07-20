@@ -1500,3 +1500,24 @@ _What do you mean?_
 
 _Do you need to do it ~~in~~ this / next year?_   
 _Do you need to finish it by tomorrow / next week / month / year?_
+
+### Lesson 42
+
+> **each other** - друг друга
+
+_+ You know each other_   
+_- You don't know each other_   
+_? Do you know each other?_
+
+> **separately** - раздельно
+
+_They live separately_   
+_They don't live separately_   
+_Do they live separately?_
+
+> **to be interested in** - интересоваться чем-то   
+> **keen on** - увлекаться чем-то   
+> **reading** - чтение
+
+_I'm interested in it_   
+_I'm keen on music / reading_
