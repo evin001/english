@@ -1521,3 +1521,46 @@ _Do they live separately?_
 
 _I'm interested in it_   
 _I'm keen on music / reading_
+
+### Lesson 43
+
+> **celebrate** - праздновать   
+> **to** - чтобы   
+> **incorrect** - неправильно   
+> **thanks to** - благодаря чему-то или кому-то   
+> **explanation** - объяснение   
+> **simplicity** - простота   
+> **community** - сообщество      
+
+_How do you usually celebrate your birthday?_   
+_What does he try to do to change it?_   
+_What's wrong / incorrect_
+
+_I enjoy this channel_   
+_I'm fond of this channel_   
+_thanks to_
+- _you_
+- _our teacher_
+- _my fantastic result_
+- _my great progress_
+- _such informative and useful videos_
+- _such a positive atmosphere_
+- _very clear explanations_
+- _its simplicity_
+- _our community_
+
+**What / Who**
+
+> **inconvenient** - неудобный   
+> **frightens** - пугает   
+
+_What seems inconvenient?_   
+_What frightens you?_
+
+> **nowadays** - в настоящее время   
+> **admire** - восхищаться   
+
+_What channels are popular nowadays?_   
+_Which video do you admire more?_   
+_What's the problem my friend?_   
+_What problem do you have?_
