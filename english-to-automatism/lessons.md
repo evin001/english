@@ -1574,3 +1574,56 @@ _I love you very much_
 
 _I perfectly understand you_   
 _I perfectly realize it_
+
+### Lesson 45
+
+`verb + to + verb`
+
+_I need to find a better job_
+
+`modal verb + verb (without to)`
+
+> **can** - могу   
+> **must** - должен   
+> **should** - следует   
+> **may/might** - возможно   
+
+_I can do it_   
+_I can speak English_
+
+`verb + verb + ing`
+
+`enjoy/like + verb + ing`
+
+_I enjoy English_   
+_I enjoy learning English_   
+_I like to do it_   
+_I like doing it_
+
+> **swim** - плавать   
+
+_I like swimming_
+
+**do business / homework**   
+**make mistakes / money**
+
+> **slowly** - медленно   
+> **slow** - медленный   
+
+_She usually speaks English very slowly / fast_
+
+_I want to know English much better_   
+_This channel is more interesting_
+
+**long - longer - the longest**   
+**interesting - more interesting - the most interesting**
+
+> **river** - река
+
+_It's the longest river in the world_   
+_This video is longer_   
+_This video is much longer_
+
+_This channel is more interesting_   
+_This channel is much more interesting_   
+_It's the most interesting channel_
