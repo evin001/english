@@ -1564,3 +1564,13 @@ _What channels are popular nowadays?_
 _Which video do you admire more?_   
 _What's the problem my friend?_   
 _What problem do you have?_
+
+### Lesson 44
+
+_I love you very much_
+
+> **perfectly** - отлично, прекрасно   
+> **realize** - осознавать, понимать   
+
+_I perfectly understand you_   
+_I perfectly realize it_
