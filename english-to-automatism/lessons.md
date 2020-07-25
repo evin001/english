@@ -1627,3 +1627,29 @@ _This video is much longer_
 _This channel is more interesting_   
 _This channel is much more interesting_   
 _It's the most interesting channel_
+
+### Lesson 45
+
+> **rude** - грубый   
+> **in the morning** - утром   
+> **in the evening** - вечером   
+> **in the afternoon** - днём   
+
+_He needs to be more polite_   
+_I usually get up at 7 o'clock in the morning_   
+_I usually come home at 8 o'clock in the evening_   
+_I usually go there in the afternoon_   
+_We see it in the first/second/third/last/next sentence/example_
+
+> **child** - ребёнок   
+> **adult / grown-up** - взрослый   
+> **thin** - худой   
+> **slim** - стройный   
+> **sell** - продавать   
+> **little** - мало   
+
+_fat - thin_   
+_buy - sell_   
+_little - much / a lot_   
+
+_She's slim_
