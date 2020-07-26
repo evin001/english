@@ -1653,3 +1653,38 @@ _buy - sell_
 _little - much / a lot_   
 
 _She's slim_
+
+### Lesson 47
+
+> **forget** - забывать   
+> **divorced** - разведён   
+> **take** - брать   
+> **disagree** - не соглашаться   
+> **tall** - высокий (если говорить о росте)   
+> **advanced** - продвинутый   
+> **beginner** - новичок   
+> **educated** - образованный   
+
+_forget - remember_   
+_married - single / divorced_   
+_laugh - cry_   
+_give - take_   
+_agree - disagree / refuse_   
+_low - high (tall)_   
+_advanced - beginner / elementary_
+
+_It's an unimportant detail_   
+_You can ask this question_   
+_I must answer this question_   
+_He refuses to pay_   
+_He's tall_   
+_My level is Advanced_   
+_I want to have an Advanced level in English_
+
+_Beginner_   
+_Elementary_   
+_Pre-Intermediate_
+_Intermediate_   
+_Upper-Intermediate_   
+_Advanced 1_   
+_Advanced 2 / You know English like a native speaker / You know English like an educated native speaker_   
