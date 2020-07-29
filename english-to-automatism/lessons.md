@@ -1688,3 +1688,8 @@ _Intermediate_
 _Upper-Intermediate_   
 _Advanced 1_   
 _Advanced 2 / You know English like a native speaker / You know English like an educated native speaker_   
+
+### Lesson 48
+
+> **each of us** - каждый из нас   
+> **disease** - болезнь
