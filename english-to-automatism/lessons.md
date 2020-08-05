@@ -176,7 +176,7 @@ _I really want to thank you_
 
 _Thank you!_
 
-_Thank a lot! Thank you very match!_
+_Thanks a lot! Thank you very much!_
 
 _Thanks a million!_
 
